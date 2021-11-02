@@ -8,7 +8,7 @@
     "test": "test"
   },
   "scripts": {
-    "loco": "jest --watch *.test.js",
+    "loco": "jest --watchAll",
     "test": "jest"
   },
   "repository": {
